@@ -1,0 +1,8 @@
+github.com/richardwooding/bm25 v0.1.0 h1:+LtY1wrEln6i1Abp4OEBgSHL3Q7DPQGTRuJwsoeVAfc=
+github.com/richardwooding/bm25 v0.1.0/go.mod h1:HpvUZKKKAnhQonRU6FWJiAWuw0Wn1bISvKyYFMj8DjY=
+github.com/richardwooding/fingerprint v0.1.0 h1:Dch6OdHUboH4PKOaMiwe4Xqbfk/rxQfdhdTctzkKfMc=
+github.com/richardwooding/fingerprint v0.1.0/go.mod h1:VYCbaXMrpgHewwYnv8GfQoEEcnQwsKFtDlH5bTI00w0=
+github.com/richardwooding/triage v0.5.0 h1:9iMWfeoz8mPpzrAqiSHKlKq56zGKxr2SghVpGLzG50M=
+github.com/richardwooding/triage v0.5.0/go.mod h1:nbnguCFTQ9NOAS0iFBytSInQITjfKwx8LPd3XOPqBOk=
+golang.org/x/image v0.41.0 h1:8wS72eGJMJaBxK6okTzd4WaXumUlTVlb753MlsSvTCo=
+golang.org/x/image v0.41.0/go.mod h1:uIc348UZMSvS5Z65CVZ7iDPaNobNFEPeJ4kbqTOszmA=
