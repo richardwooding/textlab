@@ -1,6 +1,6 @@
 module github.com/richardwooding/textlab
 
-go 1.26.2
+go 1.27.0
 
 require (
 	github.com/richardwooding/bm25 v0.1.0
