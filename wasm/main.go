@@ -103,7 +103,7 @@ type bm25JSON struct {
 
 func runBM25(docsText, query string) bm25JSON {
 	blocks := []string{}
-	for _, b := range strings.Split(docsText, "\n\n") {
+	for b := range strings.SplitSeq(docsText, "\n\n") {
 		if s := strings.TrimSpace(b); s != "" {
 			blocks = append(blocks, s)
 		}
